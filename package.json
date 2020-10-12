@@ -1,8 +1,9 @@
 {
-  "name": "eth-marketplace",
+  "name": "ipfs-website",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "An IPFS-Website",
+  "author": "marting@dappuniversity.com",
+  "homepage": ".",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
